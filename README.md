@@ -1,4 +1,3 @@
-# Putnam
 # Lean formalizations
 
 The formalizations in this folder are of the form
